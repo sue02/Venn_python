@@ -1,5 +1,7 @@
 # Venn_python
-import os
+## Script
+
+```import os
 
 from matplotlib import pyplot as plt
 
@@ -58,7 +60,6 @@ print first
 print second
 print third
 plot(first, second, third)
-
-
+```
 ## Figure
 ![figure](https://github.com/sue02/Venn_python/blob/master/fig.png)
